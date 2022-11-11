@@ -1,3 +1,9 @@
+src-animal
+test-animal
+
+src-scdms
+test-scdms
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
